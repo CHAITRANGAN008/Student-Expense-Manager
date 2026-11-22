@@ -3,7 +3,14 @@
 A complete offline-first desktop app for tracking student income, expenses and
 budgets. Built with Python 3.12+, PySide6, SQLite and Matplotlib.
 
+Locate The Project Directory and Type In Directory Path 
+
+```bat
+cmd
+```
+
 ## Run it
+
 
 ```bat
 py -3 -m pip install -r requirements.txt
