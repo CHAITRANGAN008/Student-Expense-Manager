@@ -9,7 +9,7 @@ Locate The Project Directory and Type In Directory Path
 cmd
 ```
 
-## Run it
+## Run It In CMD
 
 
 ```bat
